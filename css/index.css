@@ -159,6 +159,11 @@ header {
   justify-content: space-between;
   align-items: flex-start;
 }
+
+.topImg img {
+  width: 100%;
+  object-fit: cover;
+}
 .mainHead {
   display: flex;
   justify-content: space-between;
