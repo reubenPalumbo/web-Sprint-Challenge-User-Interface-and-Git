@@ -284,10 +284,45 @@ p {
   padding-right: 0;
 }
 
+/* About */
+
 .aboutText {
   padding: 0 3% 2%;
   margin-bottom: 5%;
   border-bottom: 1px dashed black;
+}
+
+.mainBlock {
+  display: flex;
+  flex-wrap: wrap;
+}
+.mainBlock div {
+  /* border: 1px solid crimson; */
+}
+.block1,
+.block2,
+.block3,
+.block4 {
+  margin: 2% 2%;
+  border-bottom: 1px dashed black;
+  width: 46%;
+  padding-bottom: 2%;
+}
+.blockText {
+  margin: 3% 0;
+}
+
+.learnMore {
+  padding: 3%;
+  text-align: center;
+  width: 35%;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+.learnmore: .bottomText {
+  /* border: 1px solid crimson; */
+  width: 95%;
+  margin: 3% auto 5%;
 }
 
 footer {
