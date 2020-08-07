@@ -319,7 +319,7 @@ p {
   border-radius: 10px;
   border: 1px solid black;
 }
-.learnmore: .bottomText {
+.bottomText {
   /* border: 1px solid crimson; */
   width: 95%;
   margin: 3% auto 5%;
